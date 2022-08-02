@@ -9,3 +9,4 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 - [Traversy Media](https://www.youtube.com/TraversyMedia)
 - [Web Dev Junkie](https://www.youtube.com/WebDevJunkie)
 - [RhymBill](https://www.youtube.com/RhymBil)
+- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A)
