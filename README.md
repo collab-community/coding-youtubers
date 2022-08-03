@@ -11,4 +11,4 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 - [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Web Development.
 - [RhymBill](https://www.youtube.com/RhymBil) - Web Development (mostly apps).
 - [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly, Wordpress Videos but does Web Development videos as well.
-
+- [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web developement.
