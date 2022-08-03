@@ -21,3 +21,4 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) - Teaches about **Open Source**, *wholeheartedly*.
 - [Justin Kim](https://www.youtube.com/JustinKimJS) - Teaches **Web Development** but focusses mostly on **Javascript.**
 - [Programming With Mosh](https://www.youtube.com/programmingwithmosh) - Covers various fields/concepts of programming. 
+- [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Teaches **Web Development**
