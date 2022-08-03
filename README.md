@@ -13,3 +13,5 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 - [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly teaches, Wordpress Videos but does Web Development videos as well.
 - [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web developement.
 - [Dev Ed](https://www.youtube.com/DevEd) - Mostly teaches, Web Development but also makes discussion videos, codes other languages from time to time.
+- [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) - Teaches Web Development
+- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Teaches Web Development - **Video Language: Hindi**
