@@ -24,6 +24,6 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Makes content around **Web Development**.
 - [Chris Courses](https://www.youtube.com/ChrisCourses) - Makes content around **Web Games**, written in HTML, CSS, JS.
 - [CodeWithHarry- Hindi](https://www.youtube.com/CodeWithHarry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
-- [ProgrammingWithHarry- English](https://www.youtube.com/programmingwithharry) - Same content in **English** language.
+- [ProgrammingWithHarry- English](https://www.youtube.com/programmingwithharry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** in **English**.
 - [Apna College Hindi](https://www.youtube.com/ApnaCollegeOfficial) - Very famous among college students, teaches programming languages like **C**, **C++**, **JAVA** and **DSA**.
 - [CodeHelp - by Babbar Hindi](https://www.youtube.com/CodeHelpbyBabbar) - Teaches core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python**.
