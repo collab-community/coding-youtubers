@@ -27,7 +27,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
 
 ## Hindi
-- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Makes content around **Web Development** ***NOTE-Video Language: Hindi***.
+- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Makes content around **Web Development**.
 - [CodeWithHarry- Hindi](https://www.youtube.com/CodeWithHarry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
 - [Apna College Hindi](https://www.youtube.com/ApnaCollegeOfficial) - Very famous among college students, makes content around programming languages like **C**, **C++**, **JAVA** and **DSA** in Hindi.
 - [CodeHelp - by Babbar Hindi](https://www.youtube.com/CodeHelpbyBabbar) - Makes content around core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python** in Hindi.
