@@ -6,9 +6,9 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 
 # YouTubers
 - [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - All types of coding videos.
-- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - Web Development.
-- [Traversy Media](https://www.youtube.com/TraversyMedia) - Mostly Web Development, but also does discussion videos, and other coding languages from time to time.
-- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Web Development.
-- [RhymBill](https://www.youtube.com/RhymBil) - Web Development (mostly apps).
-- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly, Wordpress Videos but does Web Development videos as well.
+- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - Teaches Web Development.
+- [Traversy Media](https://www.youtube.com/TraversyMedia) - Mostly teaches, Web Development, but also does discussion videos, and other coding languages from time to time.
+- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Teaches Web Development.
+- [RhymBill](https://www.youtube.com/RhymBil) - Teaches Web Development (mostly apps).
+- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly teaches, Wordpress Videos but does Web Development videos as well.
 - [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web developement.
