@@ -2,7 +2,9 @@
 
 This repo is created, for the community to find Coding Youtubers, which will really help beginners start their coding journey.
 
-You can add a YouTuber that helped you begin coding in the below list by creating a PR, or if your a YouTuber and your name is not included, add your name if you think you make beginner-friendly, tutorial videos!
+You can add a YouTuber that helped you begin coding in the below list by creating a PR.
+
+If you're a YouTuber reading this and if you think you make beginner-friendly tutorial videos, please add your name alongwith your YouTube channel link.
 
 # YouTubers
 - [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - This Channel contains an extensive variety of videos about different aspects of Software development and programming languages.
