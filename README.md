@@ -7,13 +7,15 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 If you're a YouTuber reading this and if you think you make beginner-friendly tutorial videos, please add your name alongwith your YouTube channel link.
 
 # YouTubers
-- [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - This Channel contains an extensive variety of videos about different aspects of Software development and programming languages.
-- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - This Channel focuses on videos about Web development..
-- [Traversy Media](https://www.youtube.com/TraversyMedia) - This channel is dedicated to helping you improve your web development skills, whether you're a beginner just starting, or a seasoned pro looking to brush up on your skills. You'll find helpful tutorials, tips, and resources on everything from HTML and CSS to JavaScript and React.
-- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - This Channel is focused on helping people learn about web development..
-- [RhymBill](https://www.youtube.com/RhymBil) -This channel features tutorials and tips related to fullstack web development and programming.
-- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - This channel teaches Wordpress, but also general web development.
-- [Tech With Tim](https://youtube.com/techwithtim) - The course offers an in-depth exploration of multiple different programming languages and concepts such as Rust and web development, teaching students how to apply them in real-world scenarios.
-- [Dev Ed](https://www.youtube.com/DevEd) - This channel's main focus is teaching web development, but they also make discussion videos about other programming languages from time to time.
-- [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) - This channel provides helpful tutorials, tips, and resources on HTML, CSS, JavaScript, React, and more.
-- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - This channel provides informative and educational content on web development in  Hindi language.
+- [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - Covers various fields/concepts of programming.
+- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - Teaches **Web Development.**
+- [Traversy Media](https://www.youtube.com/TraversyMedia) - Mostly teaches **Web Development**, but also does discussion videos and other programming languages from time to time.
+- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Teaches **Web Development.**
+- [RhymBill](https://www.youtube.com/RhymBil) - Teaches **Web Development (mostly apps).**
+- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly teaches **Wordpress Videos** but makes **Web Development** videos as well.
+- [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web development.
+- [Dev Ed](https://www.youtube.com/DevEd) - Mostly teaches **Web Development** but also makes discussion videos, teaches other languages from time to time.
+- [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) - Teaches **Web Development**
+- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Teaches **Web Development** ***NOTE-Video Language: Hindi***
+- [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) - Teaches awesome **DSA** and **DevOps**
+- [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) - Teaches about **Open Source**, *wholeheartedly*.
