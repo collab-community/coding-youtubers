@@ -19,6 +19,6 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Makes content around **Web Development** ***NOTE-Video Language: Hindi***.
 - [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) - Makes awesome content around **DSA** and **DevOps**.
 - [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) - Makes content about **Open Source**, *wholeheartedly*.
-- [Justin Kim](https://www.youtube.com/JustinKimJS) - Makes content around **Web Development** but focusses mostly on **Javascript**.
+- [Justin Kim](https://www.youtube.com/JustinKimJS) - Makes content around **Web Development** but focuses mostly on **Javascript**.
 - [Programming With Mosh](https://www.youtube.com/programmingwithmosh) - Covers various fields/concepts of programming. 
 - [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Makes content around **Web Development**.
