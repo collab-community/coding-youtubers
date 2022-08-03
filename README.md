@@ -19,3 +19,4 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Teaches **Web Development** ***NOTE-Video Language: Hindi***
 - [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) - Teaches awesome **DSA** and **DevOps**
 - [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) - Teaches about **Open Source**, *wholeheartedly*.
+- [Justin Kim](https://www.youtube.com/JustinKimJS) - Teaches **Web Development** but focusses mostly on **Javascript**
