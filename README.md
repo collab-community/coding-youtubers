@@ -22,3 +22,4 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Justin Kim](https://www.youtube.com/JustinKimJS) - Makes content around **Web Development** but focuses mostly on **Javascript**.
 - [Programming With Mosh](https://www.youtube.com/programmingwithmosh) - Covers various fields/concepts of programming. 
 - [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Makes content around **Web Development**.
+- [Chris Courses](https://www.youtube.com/ChrisCourses) - Makes content around **Web Games**, coded in HTML, CSS, JS.
