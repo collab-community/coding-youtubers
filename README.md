@@ -1,17 +1,21 @@
 # coding-youtubers
 
-This repo is created, for the community to find Coding Youtubers, which will really help beginners start their coding journey.
+This repo is created for the community to help find Coding Youtubers which will really help beginners to start their coding journey.
 
-You can add a YouTuber that helped you begin coding in the below list by creating a PR, or if your a YouTuber and your name is not inculded, add your name if you think you make beginner friendly, tutorial videos!
+You can add a YouTuber that helped you begin coding in the below list by creating a PR.
+
+If you're a YouTuber reading this and if you think you make beginner-friendly tutorial videos, please add your name alongwith your YouTube channel link.
 
 # YouTubers
-- [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - All types of coding videos.
-- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - Teaches Web Development.
-- [Traversy Media](https://www.youtube.com/TraversyMedia) - Mostly teaches, Web Development, but also does discussion videos, and other coding languages from time to time.
-- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Teaches Web Development.
-- [RhymBill](https://www.youtube.com/RhymBil) - Teaches Web Development (mostly apps).
-- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly teaches, Wordpress Videos but does Web Development videos as well.
-- [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web developement.
-- [Dev Ed](https://www.youtube.com/DevEd) - Mostly teaches, Web Development but also makes discussion videos, codes other languages from time to time.
-- [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) - Teaches Web Development
-- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Teaches Web Development - **Video Language: Hindi**
+- [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) - Covers various fields/concepts of programming.
+- [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) - Teaches **Web Development.**
+- [Traversy Media](https://www.youtube.com/TraversyMedia) - Mostly teaches **Web Development**, but also does discussion videos and other programming languages from time to time.
+- [Web Dev Junkie](https://www.youtube.com/WebDevJunkie) - Teaches **Web Development.**
+- [RhymBill](https://www.youtube.com/RhymBil) - Teaches **Web Development (mostly apps).**
+- [Brian Design](https://www.youtube.com/channel/UCsKsymTY_4BYR-wytLjex7A) - Mostly teaches **Wordpress Videos** but makes **Web Development** videos as well.
+- [Tech With Tim](https://youtube.com/techwithtim) - Teaches multiple different programming languages and concepts such as Rust and web development.
+- [Dev Ed](https://www.youtube.com/DevEd) - Mostly teaches **Web Development** but also makes discussion videos, teaches other languages from time to time.
+- [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) - Teaches **Web Development**
+- [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Teaches **Web Development** ***NOTE-Video Language: Hindi***
+- [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) - Teaches awesome **DSA** and **DevOps**
+- [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) - Teaches about **Open Source**, *wholeheartedly*.
