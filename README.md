@@ -22,3 +22,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Justin Kim](https://www.youtube.com/JustinKimJS) - Teaches **Web Development** but focusses mostly on **Javascript**.
 - [Programming With Mosh](https://www.youtube.com/programmingwithmosh) - Covers various fields/concepts of programming. 
 - [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Teaches **Web Development**.
+- [CodeWithHarry- Hindi](https://www.youtube.com/CodeWithHarry) - Teaches various programming languages and have many discussion videos around coding and tech.
+- [ProgrammingWithHarry- English](https://www.youtube.com/programmingwithharry) - Same content in **English** language.
+- [Apna College Hindi](https://www.youtube.com/ApnaCollegeOfficial) - Very famous among college students, teaches programming languages like **C**, **C++**, **JAVA** and **DSA**.
+- [CodeHelp - by Babbar Hindi](https://www.youtube.com/CodeHelpbyBabbar) - Teaches core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python**.
