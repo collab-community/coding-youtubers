@@ -37,11 +37,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 ## Bengali
 
 - [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) - Very famous among CSE students, makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** in Bengali.
-
 - [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit) - Makes content around **Web Development** but focuses mostly on **Javascript**.
-
 - [Procoder](https://www.youtube.com/c/ProcoderBD) - Makes content around **Web Development**.
-
 - [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) Makes content around **Web Development** but focuses mostly on **Javascript**.
-
 - [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) - Mostly makes content around **Web Development** but also makes discussion videos & content around other coding languages from time to time.
