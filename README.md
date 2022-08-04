@@ -1,4 +1,4 @@
-# coding-youtubers
+# Coding Youtubers
 
 This repo is created, for the community to find Coding Youtubers, which will really help beginners start their coding journey.
 
