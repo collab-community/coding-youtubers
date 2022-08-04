@@ -33,6 +33,9 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Apna College Hindi](https://www.youtube.com/ApnaCollegeOfficial) - Very famous among college students, makes content around programming languages like **C**, **C++**, **JAVA** and **DSA** in Hindi.
 - [CodeHelp - by Babbar Hindi](https://www.youtube.com/CodeHelpbyBabbar) - Makes content around core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python** in Hindi.
 
+## English & Hindi
+- [The Web Dev](https://www.youtube.com/channel/UCRf7mazcufqZxd2pR3oQJuQ) - Makes content around **Web Development**
+
 ## Bengali
 - [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) - Very famous among CSE students, makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** in Bengali.
 - [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit) - Makes content around **Web Development** but focuses mostly on **Javascript**.
