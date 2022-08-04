@@ -26,6 +26,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Chris Courses](https://www.youtube.com/ChrisCourses) - Makes content around **Web Games**, written in HTML, CSS, JS.
 - [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
 - [Fireship](https://www.youtube.com/c/Fireship) - Makes content around multiple different programming languages and concepts such as **Carbon** and **Web Development**. He also makes 100s videos of multiple different programming languages.
+- [The Net Ninja](https://www.youtube.com/TheNetNinja) - Makes content around **Web Development** but mostly been doing **Node.js** recently.
 
 ## Hindi
 - [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Makes content around **Web Development**.
