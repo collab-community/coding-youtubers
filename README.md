@@ -11,7 +11,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 ## Languages
 - [English](#english)
 - [Hindi](#hindi)
-- [English & Hindi](#english-&-hindi)
+- [English & Hindi](#english--hindi)
 - [Bengali](#bengali)
 
 
