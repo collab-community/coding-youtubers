@@ -25,7 +25,6 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Code with Ania Kubów](https://www.youtube.com/AniaKub%C3%B3w) - Makes content around **Web Development**.
 - [Chris Courses](https://www.youtube.com/ChrisCourses) - Makes content around **Web Games**, written in HTML, CSS, JS.
 - [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
-
 - [Fireship](https://www.youtube.com/c/Fireship) - Makes content around multiple different programming languages and concepts such as **Carbon** and **Web Development**. He also makes 100s videos of multiple different programming languages.
 
 ## Hindi
@@ -35,9 +34,9 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [CodeHelp - by Babbar Hindi](https://www.youtube.com/CodeHelpbyBabbar) - Makes content around core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python** in Hindi.
 
 ## Bengali
-
 - [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) - Very famous among CSE students, makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** in Bengali.
 - [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit) - Makes content around **Web Development** but focuses mostly on **Javascript**.
 - [Procoder](https://www.youtube.com/c/ProcoderBD) - Makes content around **Web Development**.
 - [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) Makes content around **Web Development** but focuses mostly on **Javascript**.
 - [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) - Mostly makes content around **Web Development** but also makes discussion videos & content around other coding languages from time to time.
+
