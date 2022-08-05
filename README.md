@@ -34,6 +34,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) - Makes content around various **programming languages** and has many discussion videos around **coding** and **tech**.
 - [Fireship](https://www.youtube.com/c/Fireship) - Makes content around multiple different programming languages and concepts such as **Carbon** and **Web Development**. He also makes 'explained in 100 seconds' format videos of multiple programming languages.
 - [The Net Ninja](https://www.youtube.com/TheNetNinja) - Makes content around **Web Development** but mostly been doing **Node.js** recently.
+- [Programming Hero](https://www.youtube.com/c/ProgrammingHero) - This channel is weird. This channel will give you project ideas, how to learn something such as **Web Development** or **Game Development** and some motivation.
 
 ## Hindi
 - [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) - Makes content around **Web Development**.
@@ -50,4 +51,5 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 - [Procoder](https://www.youtube.com/c/ProcoderBD) - Makes content around **Web Development**.
 - [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) Makes content around **Web Development** but focuses mostly on **Javascript**.
 - [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) - Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time.
-
+- [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) - This channel is weird. This channel will give you project ideas, how to learn something such as **Web Development** or **Game Development** and some motivation.
+- [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) - Talks about hiring process of developers. And promotes their paid course.
