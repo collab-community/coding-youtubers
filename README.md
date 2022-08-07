@@ -18,7 +18,7 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 | [Tech With Tim](https://youtube.com/techwithtim) | Makes content around multiple different programming languages and concepts such as **Rust** and **Web Development** | English |
 | [Dev Ed](https://www.youtube.com/DevEd) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | English |
 | [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) | Makes content around **Web Development** | English |
-| [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) | Makes awesome content around **DSA** and **DevOps** |  |
+| [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) | Makes awesome content around **DSA** and **DevOps** | English |
 | [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Makes content about **Open Source**, *wholeheartedly* | English |
 | [Justin Kim](https://www.youtube.com/JustinKimJS) | Makes content around **Web Development** but focuses mostly on **Javascript** | English |
 | [Programming With Mosh](https://www.youtube.com/programmingwithmosh) | Covers various fields/concepts of programming | English |
