@@ -27,4 +27,4 @@ Example:
 5. Once you're done, scroll to the bottom to commit the change. Make sure that the title of the commit is relevant.
 6. After adding the commit title, click on propose changes and follow the steps to create a pull request.
 
-If you followed the steps above correctly, congratulations on making your contribution!
+*If you followed the steps above correctly, congratulations on making your contribution!*
