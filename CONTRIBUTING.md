@@ -18,7 +18,7 @@ Adding a YouTuber is straightforward!
 4. Scroll to the bottom of the table and input your Youtube channel link with the format in mind.
 Format:
 ```
-| [Youtube Channel Name](Youtube Channel Link) | Description | Language|
+| [YouTube Channel Name](YouTube Channel Link) | Description | Language|
 ```
 Example:
 ```
