@@ -1,7 +1,7 @@
 # Contribution
 
 ## Link qualification
-Links have to contain Youtube content pertaining to coding. It has to be helpful, contain a short description as to why it's helpful.
+Links have to contain YouTube content pertaining to coding. It has to be helpful, contain a short description as to why it's helpful.
 Here are some rules to follow when adding a link to make sure it qualifies:
 1. Before proceeding with every step below, take your time to read the current list to see if the Youtuber you want to add hasn't already been added. (This saves the maintainer's time when reviewing your pull request.
 2. The link has to be a **Youtube** link.
