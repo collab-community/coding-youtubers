@@ -7,7 +7,7 @@ You can add a YouTuber that helped you begin coding in the below list by creatin
 If you're a YouTuber reading this and if you think you make beginner-friendly tutorial videos, please add your name alongwith your YouTube channel link.
 
 
-| Name | Description | Language |
+| **Name** | **Description** | **Language** |
 | -------------| ------------- | ------------- |
 | [FreeCodeCamp.org](https://www.youtube.com/Freecodecamp) | Covers various fields/concepts of programming | English |
 | [Web Dev Simplified](https://www.youtube.com/WebDevSimplified) | Makes content around **Web Development** | English |
