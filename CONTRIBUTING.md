@@ -8,7 +8,7 @@ Here are some rules to follow when adding a link to make sure it qualifies:
 3. Based on the point above, no links to the Youtuber's other accounts such as Twitter, Github, etc.
 4. The content within the Youtube channel must be about code or coding.
 5. Ensure that the content is objective and not opiniated. This means no resources that talks about someone's thoughts of a topic, even if you personally find it helpful.
-6. If you're a Youtuber making beginner-styled tutorial content on, you're allowed to post a link to your channel given it follows the other rules detailed above.
+6. If you're a YouTuber making beginner-styled tutorial content on, you're allowed to post a link to your channel given it follows the other rules detailed above.
 ## Adding a link
 Adding a YouTuber is straightforward!
 1. Get the YouTuber's channel link you want to add.
