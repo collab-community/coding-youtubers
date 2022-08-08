@@ -11,7 +11,7 @@ Here are some rules to follow when adding a link to make sure it qualifies:
 6. If you're a Youtuber making beginner-styled tutorial content on, you're allowed to post a link to your channel given it follows the other rules detailed above.
 ## Adding a link
 Adding a YouTuber is straightforward!
-1. Get the Youtuber channel link you want to add.
+1. Get the YouTuber's channel link you want to add.
 2. Go to the [README](https://github.com/collab-community/coding-youtubers/blob/main/README.md)
 3. Click on the edit icon on the top right
 ![](Assets/step3.png)
