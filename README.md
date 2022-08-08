@@ -37,3 +37,4 @@ If you're a YouTuber reading this and if you think you make beginner-friendly tu
 | [Procoder](https://www.youtube.com/c/ProcoderBD) | Makes content around **Web Development** | Bengali |
 | [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
 | [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | Bengali |
+| [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) | Produces great content related to **Javascript Web Development** and **Application Development** | English |
