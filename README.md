@@ -2,7 +2,7 @@
 
 This repo is created, for the community to find Coding Youtubers, which will really help beginners start their coding journey.
 
-You can add a YouTuber that helped you begin coding in the below list by following our contribution guide [here](CONTRIBUTING.md).
+You can add a YouTuber that helped you begin coding in the below list by following our CONTRIBUTING GUIDELINES [here](CONTRIBUTING.md).
 
 
 | Name | Description | Language |
