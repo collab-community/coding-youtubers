@@ -28,6 +28,7 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Fireship](https://www.youtube.com/c/Fireship) | Makes content around multiple different programming languages and concepts such as **Carbon** and **Web Development**. He also makes 'explained in 100 seconds' format videos of multiple programming languages | English |
 | [The Net Ninja](https://www.youtube.com/TheNetNinja) | Makes content around **Web Development** but mostly been doing **Node.js** recently | English |
 | [Programming Hero](https://www.youtube.com/ProgrammingHero) | Makes content around **Python** | English |
+| [Kevin Powell](https://www.youtube.com/kepowob) | Makes content around **CSS** | English |
 | [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) | Makes content around **Web Development** | Hindi |
 | [CodeWithHarry](https://www.youtube.com/CodeWithHarry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | Hindi |
 | [Apna College](https://www.youtube.com/ApnaCollegeOfficial) | Makes content around programming languages like **C**, **C++**, **JAVA** and **DSA** | Hindi |
