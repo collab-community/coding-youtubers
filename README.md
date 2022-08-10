@@ -40,3 +40,4 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
 | [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | Bengali |
 | [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) | Produces great content related to **Javascript Web Development** and **Application Development** | English |
+| [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode) | Creates quality **Frontend and Backend Web Development** videos | English |
