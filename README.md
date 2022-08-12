@@ -43,4 +43,4 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode) | Makes content around**Frontend and Backend Web Development**.| English |
 | [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | Makes content around **Web Development** & **Game Development**. They also give amazing project ideas and motivation.| Bengali |
 | [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
-| [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Talks about hiring process of developers. And promotes their paid course.| Bengali |
+| [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
