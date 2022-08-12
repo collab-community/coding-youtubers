@@ -41,3 +41,6 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | Bengali |
 | [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) | Produces great content related to **Javascript Web Development** and **Application Development** | English |
 | [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode) | Makes content around**Frontend and Backend Web Development**.| English |
+| [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | This channel will give you project ideas, how to learn something such as **Web Development** or **Game Development** and some motivation.| Bengali |
+| [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
+| [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Talks about hiring process of developers. And promotes their paid course.| Bengali |
