@@ -48,3 +48,5 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | Makes content around **Web Development** & **Game Development**. They also give amazing project ideas and motivation.| Bengali |
 | [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
 | [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
+[Coder Coder](https://www.youtube.com/c/TheCoderCoder/videos) | Makes content revolving around **Web Development** mostly on the front-end asspects | English |
+
