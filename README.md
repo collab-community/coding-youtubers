@@ -48,3 +48,4 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | Makes content around **Web Development** & **Game Development**. They also give amazing project ideas and motivation.| Bengali |
 | [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
 | [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
+| [Pavel Mavrin](https://youtube.com/playlist?list=PLrS21S1jm43igE57Ye_edwds_iL7ZOAG4) | Pavel Mavrin is a Russian YouTuber who has made this dedicated and detailed two years 4 semester course on Data Structures and Algorithms in English. This same course is taught in ITMO University (one of the top competitive programming University) and he himself is RED on codeforces. | English |
