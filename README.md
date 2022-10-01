@@ -48,3 +48,4 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | Makes content around **Web Development** & **Game Development**. They also give amazing project ideas and motivation.| Bengali |
 | [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
 | [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
+|[MyCodeSchool (C/CPP)](https://www.youtube.com/user/mycodeschool) | MyCodeSchool YouTube channel covers a way easy notes on programming topics in C/CPP. It is a better go to resource for a beginner in **Data Structures in C/CPP** mainly| English |
