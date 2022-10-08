@@ -11,6 +11,3 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Makes content about **Open Source**, *wholeheartedly* | English |
 | [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | English |
 
-| [Amigoscode](https://www.youtube.com/c/amigoscode) | In the past few years, nelson has programmed in various programming languages such as PHP, Python, C# and primarily writes Java and JavaScript, focusing on Distributed Systems hosted on the cloud. | English |
-
-| [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
