@@ -14,4 +14,3 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Amigoscode](https://www.youtube.com/c/amigoscode) | In the past few years, nelson has programmed in various programming languages such as PHP, Python, C# and primarily writes Java and JavaScript, focusing on Distributed Systems hosted on the cloud. | English |
 
 | [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
-|[MyCodeSchool (C/CPP)](https://www.youtube.com/user/mycodeschool) | MyCodeSchool YouTube channel covers a way easy notes on programming topics in C/CPP. It is a better go to resource for a beginner in **Data Structures in C/CPP** mainly| English |
