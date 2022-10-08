@@ -17,7 +17,6 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Tech With Tim](https://youtube.com/techwithtim) | Makes content around multiple different programming languages and concepts such as **Rust** and **Web Development** | English |
 | [Dev Ed](https://www.youtube.com/DevEd) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | English |
 | [Easy Tutorials](https://www.youtube.com/EasyTutorialsVideo) | Makes content around **Web Development** | English |
-| [Kunal Kushwaha](https://www.youtube.com/kunalkushwaha) | Makes awesome content around **DSA** and **DevOps** | English |
 | [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Makes content about **Open Source**, *wholeheartedly* | English |
 | [Justin Kim](https://www.youtube.com/JustinKimJS) | Makes content around **Web Development** but focuses mostly on **Javascript** | English |
 | [Programming With Mosh](https://www.youtube.com/programmingwithmosh) | Covers various fields/concepts of programming | English |
@@ -35,10 +34,8 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Amigoscode](https://www.youtube.com/c/amigoscode) | In the past few years, nelson has programmed in various programming languages such as PHP, Python, C# and primarily writes Java and JavaScript, focusing on Distributed Systems hosted on the cloud. | English |
 | [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) | Makes content around **Web Development** | Hindi |
 | [CodeWithHarry](https://www.youtube.com/CodeWithHarry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | Hindi |
-| [Apna College](https://www.youtube.com/ApnaCollegeOfficial) | Makes content around programming languages like **C**, **C++**, **JAVA** and **DSA** | Hindi |
-| [CodeHelp - by Babbar](https://www.youtube.com/CodeHelpbyBabbar) | Makes content around core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python** | Hindi |
 | [The Web Dev](https://www.youtube.com/channel/UCRf7mazcufqZxd2pR3oQJuQ) | Makes content around **Web Development** | English & Hindi |
-| [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) | Makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** | Bengali |
+
 | [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
 | [Procoder](https://www.youtube.com/c/ProcoderBD) | Makes content around **Web Development** | Bengali |
 | [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
