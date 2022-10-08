@@ -8,3 +8,4 @@
 |[Google's DSA course](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) | This course on Udacity is by Google itself and really helpful to cover basics | English |
 |[Vishal Rajput](https://www.youtube.com/c/VishalRajput_1/playlists) | Some of the topics which are not covered in Kunal's playlist are present here. With amazing questions, Vishal Rajput has made some really good playlists | Hindi |
 | [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) | Makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** | Bengali |
+|[MyCodeSchool (C/CPP)](https://www.youtube.com/user/mycodeschool) | MyCodeSchool YouTube channel covers a way easy notes on programming topics in C/CPP. It is a better go to resource for a beginner in **Data Structures in C/CPP** mainly| English |
