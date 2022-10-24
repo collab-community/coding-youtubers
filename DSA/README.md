@@ -10,3 +10,4 @@
 | [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) | Makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** | Bengali |
 |[MyCodeSchool (C/CPP)](https://www.youtube.com/user/mycodeschool) | MyCodeSchool YouTube channel covers a way easy notes on programming topics in C/CPP. It is a better go to resource for a beginner in **Data Structures in C/CPP** mainly| English |
 | [Jenny's Lectures (CPP/Python)](https://www.youtube.com/c/JennyslecturesCSITNETJRF/playlists) | This YouTube channel covers DSA topics from scratch along with programming language and it has content on other tech topics too | English/Hindi |
+| [CS Dojo](https://www.youtube.com/c/CSDojo) | Exclusive contents about Programming, Computer Science, Open Source and especially DSA explained in a very easy way to learn and become a awesome developer. | English |
