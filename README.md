@@ -11,3 +11,31 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Makes content about **Open Source**, *wholeheartedly* | English |
 | [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | English |
 
+| [Fireship](https://www.youtube.com/c/Fireship) | Makes content around multiple different programming languages and concepts such as **Carbon** and **Web Development**. He also makes 'explained in 100 seconds' format videos of multiple programming languages | English |
+| [The Net Ninja](https://www.youtube.com/TheNetNinja) | Makes content around **Web Development** but mostly been doing **Node.js** recently | English |
+| [Programming Hero](https://www.youtube.com/ProgrammingHero) | Makes content around **Python** | English |
+| [Kevin Powell](https://www.youtube.com/kepowob) | Makes content around **CSS** | English |
+| [Kent C. Dodds](https://www.youtube.com/user/kentdoddsfamily/videos) | In this YouTube channel, you’ll find live streams and videos on beginner and advanced topics ranging from **JavaScript** to **React**, **TypeScript**, and **dev tips** | English |
+| [Double South](https://www.youtube.com/channel/UCzroHLKLlfA-hR7S4if6qww) | In this channel, Itsey teaches **beginner friendly** JavaScript, HTML, and CSS | Pidgin English |
+| [The New Boston](https://www.youtube.com/user/thenewboston) | This channel provides tutorials in abundance for the following sub-topics – **ReactJS**, **ES6** (ECMA Script), **AngularJS**, Working with **NodeJS**, **Vanilla JavaScript** and **Docker**| English |
+| [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/videos) | This channel provides tutorials on everything you need to kick start your **web development** journey, but not limited to JavaScript | English |
+| [Amigoscode](https://www.youtube.com/c/amigoscode) | In the past few years, nelson has programmed in various programming languages such as PHP, Python, C# and primarily writes Java and JavaScript, focusing on Distributed Systems hosted on the cloud. | English |
+| [Easy Tutorials Hindi](https://www.youtube.com/EasyTutorialsVideo) | Makes content around **Web Development** | Hindi |
+| [CodeWithHarry](https://www.youtube.com/CodeWithHarry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | Hindi |
+| [Apna College](https://www.youtube.com/ApnaCollegeOfficial) | Makes content around programming languages like **C**, **C++**, **JAVA** and **DSA** | Hindi |
+| [CodeHelp - by Babbar](https://www.youtube.com/CodeHelpbyBabbar) | Makes content around core subjects of Computer Science such as **DBMS**, **DSA**, **OS**, and programming languages like **Flutter**, **C++**, **Python** | Hindi |
+| [The Web Dev](https://www.youtube.com/channel/UCRf7mazcufqZxd2pR3oQJuQ) | Makes content around **Web Development** | English & Hindi |
+| [Tamim Shahriar](https://www.youtube.com/c/TamimShahriar) | Makes content around programming languages like **C**, **Python**, **JAVA** and **DSA** | Bengali |
+| [Learn with Sumit](https://www.youtube.com/c/LearnwithSumit) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
+| [Procoder](https://www.youtube.com/c/ProcoderBD) | Makes content around **Web Development** | Bengali |
+| [JS Bangladesh](https://www.youtube.com/c/JSBangladesh) | Makes content around **Web Development** but focuses mostly on **Javascript** | Bengali |
+| [Anisul Islam](https://www.youtube.com/c/anisulislamrubel) | Mostly makes content around **Web Development** but also makes discussion videos & content around other programming languages from time to time | Bengali |
+| [Javascript Mastery](https://www.youtube.com/c/JavaScriptMastery) | Produces great content related to **Javascript Web Development** and **Application Development** | English |
+| [Dave Gray](https://www.youtube.com/c/DaveGrayTeachesCode) | Makes content around**Frontend and Backend Web Development**.| English |
+| [Jhankar Mahbub](https://www.youtube.com/user/jhankarmahbub) | Makes content around **Web Development** & **Game Development**. They also give amazing project ideas and motivation.| Bengali |
+| [Programming Shikhbo](https://www.youtube.com/c/ProgrammingShikhbo) | Makes content around **Web Development** and **GitHub**.| Bengali |
+| [Programming Hero Community](https://www.youtube.com/c/ProgrammingHeroCommunity) | Makes content discussing about the hiring process of developers.| Bengali |
+|[Coder Coder](https://www.youtube.com/c/TheCoderCoder/videos) | Makes content revolving around **Web Development** mostly on the front-end asspects | English |
+
+
+
