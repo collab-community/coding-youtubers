@@ -10,4 +10,4 @@ You can add a YouTuber that helped you begin coding in the below list by followi
 | -------------| ------------- | ------------- |
 | [Eddie Jaoude](https://www.youtube.com/channel/UC5mnBodB73bR88fLXHSfzYA) | Makes content about **Open Source**, *wholeheartedly* | English |
 | [ProgrammingWithHarry](https://www.youtube.com/programmingwithharry) | Makes content around various **programming languages** and has many discussion videos around **coding** and **tech** | English |
-
+| [Nick White](https://www.youtube.com/@NickWhite) | Nick White is a YouTuber who focuses on creating both entertaining and educational content. | English |
